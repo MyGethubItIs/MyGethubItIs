@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding animation"/>
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Hey!+I'm+Himanshu+Pokhariya;Full+Stack+Developer;Java+%26+Spring+Boot+Expert;React+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Hey!+I'm+Himanshu+Pokhariya;Full+Stack+Developer;Java+%26+Spring+Boot;React+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -9,13 +13,17 @@
 
 <br>
 
+<div align="center">
+  <img src="https://media.tenor.com/8QwKj4KzFjMAAAAC/cat-guitar.gif" width="250" alt="cat playing guitar"/>
+</div>
+
 ## 👨‍💻 About Me
 
 I'm a **Full Stack Developer** currently pursuing my **MCA at MIT World Peace University**.
 
 - 🎸 **Part-time musician** – I write code by day and strum my guitar by night
 - 📫 **Reach me:** himanshupokhariya12345@gmail.com
-- 🌱 **Currently learning:** Spring Boot Microservices
+- 🌱 **Currently learning:** Spring Boot & Microservices
 
 ---
 
