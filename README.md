@@ -89,10 +89,12 @@ Browser extension that captures selected text and provides AI-powered explanatio
 </div>
 ## 🐍 Snake Eating My Contributions
 
+
+
 ## 🐍 Snake Eating My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=2E9AFE&color_dots=#1e1e2e,#2E9AFE,#4b91f1,#64a1f4,#8dbdff" alt="snake" />
 </div>
 ---
 
