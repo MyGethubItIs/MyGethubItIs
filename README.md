@@ -7,8 +7,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MyGethubItIs&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/MyGethubItIs?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=MyGethubItIs&style=flat-square&color=blue" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/MyGethubItIs?style=flat-square&logo=github&color=blue" alt="Followers" />
 </div>
 
 <br>
@@ -88,11 +89,14 @@ Browser extension that captures selected text and provides AI-powered explanatio
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyGethubItIs&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
 
+---
+
 ## 🐍 Snake Eating My Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=2E9AFE&color_dots=#1e1e2e,#2E9AFE,#4b91f1,#64a1f4,#8dbdff" alt="snake" />
 </div>
+
 ---
 
 ## 🎮 Let's Connect!
@@ -127,5 +131,3 @@ Browser extension that captures selected text and provides AI-powered explanatio
 <div align="center">
   <b>⭐️ Show some love by starring my repositories! ⭐️</b>
 </div>
-
-
