@@ -87,9 +87,6 @@ Browser extension that captures selected text and provides AI-powered explanatio
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyGethubItIs&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
-## 🐍 Snake Eating My Contributions
-
-
 
 ## 🐍 Snake Eating My Contributions
 
