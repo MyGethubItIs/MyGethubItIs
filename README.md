@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60" alt="fire left" />
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="coding animation"/>
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60" alt="fire right" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100" alt="fire left" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="coding animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100" alt="fire right" />
 </div>
 
 <h1 align="center">
@@ -19,7 +19,16 @@
 
 I'm a **Full Stack Developer** currently pursuing my **MCA at MIT World Peace University**.
 
-- 🎸 **Part-time musician** – I write code by day and strum my guitar by night <img src="https://media1.tenor.com/m/1VFipeMyyAYAAAAd/cat-guitar.gif" width="50" height="50" style="display: inline-block; vertical-align: middle;" />
+<table>
+  <tr>
+    <td>🎸 <b>Part-time musician</b> – I write code by day and strum my guitar by night</td>
+    <td rowspan="2"><img src="https://media1.tenor.com/m/1VFipeMyyAYAAAAd/cat-guitar.gif" width="70" height="70" style="display: inline-block; vertical-align: middle;" /></td>
+  </tr>
+  <tr>
+    <td><hr width="100%" style="border: 2px dotted #2E9AFE;" /></td>
+  </tr>
+</table>
+
 - 📫 **Reach me:** himanshupokhariya12345@gmail.com
 - 🌱 **Currently learning:** Spring Boot & Microservices
 
@@ -86,7 +95,7 @@ Browser extension that captures selected text and provides AI-powered explanatio
 ## 🎮 Let's Connect!
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50" alt="pacman" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" alt="pacman" />
   <br>
   <p><i>Find me around the web ⬇️</i></p>
 </div>
