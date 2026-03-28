@@ -13,15 +13,11 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.tenor.com/8QwKj4KzFjMAAAAC/cat-guitar.gif" width="250" alt="cat playing guitar"/>
-</div>
-
 ## 👨‍💻 About Me
 
 I'm a **Full Stack Developer** currently pursuing my **MCA at MIT World Peace University**.
 
-- 🎸 **Part-time musician** – I write code by day and strum my guitar by night
+- 🎸 **Part-time musician** – I write code by day and strum my guitar by night <img src="https://media1.tenor.com/m/1VFipeMyyAYAAAAd/cat-guitar.gif" width="35" height="35" style="display: inline-block; vertical-align: middle;" />
 - 📫 **Reach me:** himanshupokhariya12345@gmail.com
 - 🌱 **Currently learning:** Spring Boot & Microservices
 
