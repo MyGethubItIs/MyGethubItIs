@@ -1,13 +1,5 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MyGethubItIs/MyGethubItIs/main/github-header-banner.png" alt="Himanshu Pokhariya - Trying to be a Fullstack Developer" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="github-header-banner.png" alt="Himanshu Pokhariya - Trying to be a Fullstack Developer" width="100%"/>
-</div>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Actually...+I'm+already+one!;Full+Stack+Developer;Java+%26+Spring+Boot+Expert;React+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Hey!+I'm+Himanshu+Pokhariya;Full+Stack+Developer;Java+%26+Spring+Boot+Expert;React+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -17,18 +9,13 @@
 
 <br>
 
-## 🎸 About Me
+## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** by day, and a **guitar-wielding bard** by night. Currently pursuing my **MCA at MIT World Peace University**—because world peace starts with clean code and good riffs.
+I'm a **Full Stack Developer** currently pursuing my **MCA at MIT World Peace University**.
 
-- 🎵 **Part-time musician, full-time debugger** – I write code that compiles and songs that don't make your ears bleed
-- 🐱 **Fun fact:** This cat plays better guitar than I do. We're in a band. It's complicated.
+- 🎸 **Part-time musician** – I write code by day and strum my guitar by night
 - 📫 **Reach me:** himanshupokhariya12345@gmail.com
-- 🌱 **Currently learning:** Spring Boot Microservices & how to play "Wonderwall" without people walking away
-
-<div align="center">
-  <img src="https://media.tenor.com/8QwKj4KzFjMAAAAC/cat-guitar.gif" width="250" alt="cat playing guitar"/>
-</div>
+- 🌱 **Currently learning:** Spring Boot Microservices
 
 ---
 
@@ -75,23 +62,6 @@ A full-stack web app enabling peer-to-peer mentorship with channel-based communi
 
 Browser extension that captures selected text and provides AI-powered explanations and code snippets. Built with **JavaScript, Python, Chrome Extensions API**.
 
-### 💼 Shree Sai Poly Pack Analytics
-> *Data Analytics & Business Intelligence*
-
-SQL optimization and Python automation that reduced reporting time by 6–8 hours/week. Built with **SQL, Python, Power BI, Tableau**.
-
----
-
-## 🎵 The Music Corner
-
-When I'm not wrestling with bugs or convincing Spring Boot to work on the first try, you'll find me:
-
-- 🎸 **Strumming my guitar** – writing songs about stack overflow errors and undefined is not a function
-- 🎤 **Performing for an audience of one** – my cat (she's my biggest critic, very demanding)
-- 📝 **Composing hits like:** *"REST API Blues"*, *"Null Pointer Heartbreak"*, and the holiday classic *"All I Want for Christmas is a Working Deployment"*
-
-**Warning:** My music career is currently in stealth mode. If you hear me playing, no you didn't. 🐱🎸
-
 ---
 
 ## 📊 GitHub Stats
@@ -131,5 +101,5 @@ When I'm not wrestling with bugs or convincing Spring Boot to work on the first 
 </div>
 
 <div align="center">
-  <b>⭐️ Show some love by starring my repositories! (My cat judges me based on star count) ⭐️</b>
+  <b>⭐️ Show some love by starring my repositories! ⭐️</b>
 </div>
