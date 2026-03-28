@@ -2,8 +2,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding animation"/>
 </div>
 
+<div align="center">
+  <img src="github-header-banner.png" alt="Himanshu Pokhariya - Trying to be a Fullstack Developer" width="100%"/>
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Hey!+I'm+Himanshu+Pokhariya;Full+Stack+Developer;Java+%26+Spring+Boot+Expert;React+Enthusiast;Problem+Solver+%40+Heart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Actually...+I'm+already+one!;Full+Stack+Developer;Java+%26+Spring+Boot+Expert;React+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -15,15 +19,15 @@
 
 ## 🎸 About Me
 
-I'm a passionate **Full Stack Developer** currently pursuing my **MCA at MIT World Peace University**. I love building scalable web applications and solving complex problems with clean, efficient code.
+I'm a **Full Stack Developer** by day, and a **guitar-wielding bard** by night. Currently pursuing my **MCA at MIT World Peace University**—because world peace starts with clean code and good riffs.
 
-- 🎵 **Music Lover** – When I'm not coding, you'll find me jamming with my guitar! 🐱🎸
-- 🏆 **Winner** – College Project Competition for AI-Powered Browser Extension
+- 🎵 **Part-time musician, full-time debugger** – I write code that compiles and songs that don't make your ears bleed
+- 🐱 **Fun fact:** This cat plays better guitar than I do. We're in a band. It's complicated.
 - 📫 **Reach me:** himanshupokhariya12345@gmail.com
-- 🌱 **Currently exploring:** Spring Boot Microservices & Cloud Architecture
+- 🌱 **Currently learning:** Spring Boot Microservices & how to play "Wonderwall" without people walking away
 
 <div align="center">
-  <img src="https://tenor.com/view/cat-guitar-gif-20719743" width="200" alt="cat playing guitar"/>
+  <img src="https://media.tenor.com/8QwKj4KzFjMAAAAC/cat-guitar.gif" width="250" alt="cat playing guitar"/>
 </div>
 
 ---
@@ -61,51 +65,32 @@ I'm a passionate **Full Stack Developer** currently pursuing my **MCA at MIT Wor
 
 ## 📌 Featured Projects
 
-### 🎓 MIT-WPU Connect | [GitHub](https://github.com/MyGethubItIs/mit-wpu-connect)
-> **Student Mentorship & Collaboration Platform**
+### 🎓 MIT-WPU Connect
+> *Student Mentorship & Collaboration Platform*
 
-- Built a **full-stack web application** enabling peer-to-peer mentorship with structured channels
-- Implemented **channel-based communication** supporting 10+ categories and real-time interactions
-- Developed **REST APIs using Spring Boot**, handling 100+ message records efficiently
-- Integrated **React frontend** with backend APIs using Axios, reducing manual refresh needs
-- **Improved UI readability by ~30%** with smart message grouping logic
-- **Tech Stack:** Spring Boot, React, MySQL, Styled Components
+A full-stack web app enabling peer-to-peer mentorship with channel-based communication. Built with **Spring Boot, React, MySQL**.
 
-### 🤖 AI-Powered Browser Extension | [GitHub](https://github.com/MyGethubItIs/ai-browser-extension)
-> **Instant Code & Content Assistance**
+### 🤖 AI-Powered Browser Extension
+> *Instant Code & Content Assistance*
 
-- Built a **browser extension** capturing selected text with 100+ interactions per session
-- Integrated **AI APIs** for explanations, summaries, and multi-language code snippets
-- Achieved **<2 second response time** with optimized API handling
-- **Improved productivity by ~40%** by reducing context-switching
-- Supports **Java, C++, Python** code generation
-- **Tech Stack:** JavaScript, Python, Chrome Extensions API
+Browser extension that captures selected text and provides AI-powered explanations and code snippets. Built with **JavaScript, Python, Chrome Extensions API**.
 
-### 💼 Shree Sai Poly Pack Industries | [Internship Project]
-> **Data Analytics & Business Intelligence**
+### 💼 Shree Sai Poly Pack Analytics
+> *Data Analytics & Business Intelligence*
 
-- Wrote and optimized **SQL queries** for 10k+ production and sales records
-- Developed **Python scripts** automating data cleaning, reducing manual effort
-- Built interactive **Power BI & Tableau dashboards** for real-time insights
-- **Reduced reporting time by 6–8 hours per week**
-- **Improved data processing efficiency by 25%**
+SQL optimization and Python automation that reduced reporting time by 6–8 hours/week. Built with **SQL, Python, Power BI, Tableau**.
 
 ---
 
-## 💼 Work Experience
+## 🎵 The Music Corner
 
-| Position | Company | Duration | Key Achievements |
-|----------|---------|----------|------------------|
-| **Data Analyst & Business Intelligence Intern** | Shree Sai Poly Pack Industries | May 2024 – Mar 2025 | Optimized SQL queries, automated Python pipelines, reduced reporting time by 6–8 hours/week |
-| **Data Scientist Intern** | Prodigy InfoTech | Sep 2024 – Oct 2024 | Performed EDA, improved prediction accuracy by 10–15%, reduced processing time by 10% |
+When I'm not wrestling with bugs or convincing Spring Boot to work on the first try, you'll find me:
 
----
+- 🎸 **Strumming my guitar** – writing songs about stack overflow errors and undefined is not a function
+- 🎤 **Performing for an audience of one** – my cat (she's my biggest critic, very demanding)
+- 📝 **Composing hits like:** *"REST API Blues"*, *"Null Pointer Heartbreak"*, and the holiday classic *"All I Want for Christmas is a Working Deployment"*
 
-## 🏆 Achievements
-
-- 🥇 **Winner** – College Project Competition for AI-Powered Browser Extension
-- 📝 **Strong Foundation** – 7.05/10 CGPA in BCA from Bharati Vidyapeeth University, Pune
-- 🎓 **Pursuing MCA** – MIT World Peace University (2025–Present)
+**Warning:** My music career is currently in stealth mode. If you hear me playing, no you didn't. 🐱🎸
 
 ---
 
@@ -119,12 +104,6 @@ I'm a passionate **Full Stack Developer** currently pursuing my **MCA at MIT Wor
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyGethubItIs&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
-
----
-
-## 🎵 Fun Fact
-
-I'm a **guitar enthusiast** who believes coding and music are two sides of the same creative coin. Both require rhythm, structure, and a little bit of improvisation! 🎸
 
 ---
 
@@ -152,5 +131,5 @@ I'm a **guitar enthusiast** who believes coding and music are two sides of the s
 </div>
 
 <div align="center">
-  <b>⭐️ Show some love by starring my repositories! ⭐️</b>
+  <b>⭐️ Show some love by starring my repositories! (My cat judges me based on star count) ⭐️</b>
 </div>
