@@ -83,6 +83,9 @@ Browser extension that captures selected text and provides AI-powered explanatio
 
 ## 🔗 Connect With Me
 
+- 🌱 **Currently learning:** Spring Boot & Microservices  
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" style="display: inline-block; vertical-align: middle;" />
+
 <p align="center">
   <a href="https://himanshuhp.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
